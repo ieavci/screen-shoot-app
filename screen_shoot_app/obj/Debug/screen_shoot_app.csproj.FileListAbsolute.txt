@@ -1,0 +1,12 @@
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\bin\Debug\screen_shoot_app.exe.config
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\bin\Debug\screen_shoot_app.exe
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\bin\Debug\screen_shoot_app.pdb
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.csproj.AssemblyReference.cache
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.Form1.resources
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.Properties.Resources.resources
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.csproj.GenerateResource.cache
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.csproj.CoreCompileInputs.cache
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.exe
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.pdb
+C:\Users\iavcc\source\repos\screen_shoot_app\screen_shoot_app\obj\Debug\screen_shoot_app.message.resources
